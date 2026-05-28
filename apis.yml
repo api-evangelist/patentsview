@@ -1,0 +1,32 @@
+aid: patentsview
+name: PatentsView
+description: "API is intended to explore and visualize trends/patterns across the US innovation landscape"
+url: https://patentsview.org/apis/purpose
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Patent"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Patent
+  - Public APIs
+apis:
+  - name: PatentsView
+    description: "API is intended to explore and visualize trends/patterns across the US innovation landscape"
+    humanURL: https://patentsview.org/apis/purpose
+    baseURL: https://patentsview.org/apis/purpose
+    tags:
+      - Patent
+    properties:
+      - type: Documentation
+        url: https://patentsview.org/apis/purpose
+common:
+  - type: Website
+    url: https://patentsview.org/apis/purpose
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
