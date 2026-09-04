@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://patentsview.org/apis/purpose', status: 301, note: 'declared website redirects to https://data.uspto.gov/support/transition-guide/patentsview — a different registrable domain (patentsview.org -> uspto.gov), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/patentsview.png
 name: PatentsView
 description: "API is intended to explore and visualize trends/patterns across the US innovation landscape"
