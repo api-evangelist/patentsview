@@ -35,6 +35,9 @@ x-category: "Patent"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Patents
+  - Public APIs
+tags_raw:
   - Patent
   - Public APIs
 apis:
@@ -43,6 +46,8 @@ apis:
     humanURL: https://patentsview.org/apis/purpose
     baseURL: https://patentsview.org/apis/purpose
     tags:
+      - Patents
+    tags_raw:
       - Patent
     properties:
       - type: Documentation
