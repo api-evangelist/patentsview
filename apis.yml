@@ -44,7 +44,6 @@ apis:
   - name: PatentsView
     description: "API is intended to explore and visualize trends/patterns across the US innovation landscape"
     humanURL: https://patentsview.org/apis/purpose
-    baseURL: https://patentsview.org/apis/purpose
     tags:
       - Patents
     tags_raw:
