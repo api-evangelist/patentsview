@@ -29,7 +29,7 @@ description: "API is intended to explore and visualize trends/patterns across th
 url: https://patentsview.org/apis/purpose
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Patent"
 x-tier: 3
@@ -52,6 +52,8 @@ apis:
       - type: Documentation
         url: https://patentsview.org/apis/purpose
 common:
+  - url: https://data.uspto.gov/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/patentsview-domain-security.yml
   - type: Website
